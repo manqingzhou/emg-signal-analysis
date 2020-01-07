@@ -38,10 +38,11 @@ def rms(data):
 ```
 
 ## Normalization
-Use the sub maximal normalization. The main idea is to divide the data by max rms
+Use the sub maximal normalization. The main idea is to divide the data by max rms. The graph below is one subject.
+![subject2_2](/emg/subject2_2.png)
 
 ## Multi-Classification model
 Prediction Part
 
-
+The final code file is in `/emg/final_code.py`
 
