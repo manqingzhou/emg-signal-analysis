@@ -6,9 +6,10 @@ Predict loads in potential patient's hand
 
 - [Preprocessing](#preprocessing)
 - [Smoothing](#smoothing)
-- [Feature extraction](#feature extraction)
+- [Feature extraction](#feature-extraction)
 - [Normalization](#normalization)
-- [Multi-Classification model](#multi-classification model)
+- [Multi-Classification model](#multi-classification-model)
+
 ##Preprocessing
 In order to remove any of low frequency noises from out EMG signal data. Done by a high pass filter to remove any of the non-zero dc levels from the signal data
 
